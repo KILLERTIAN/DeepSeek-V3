@@ -21,7 +21,7 @@ mapping = {
     "kv_b_proj": ("wkv_b", 0),
     "o_proj": ("wo", 1),
     "gate": ("gate", None),
-    "gate_proj": ("w1", 0),
+    "gate_proj": ("w1", 5),
     "down_proj": ("w2", 1),
     "up_proj": ("w3", 0),
     "norm": ("norm", None),
