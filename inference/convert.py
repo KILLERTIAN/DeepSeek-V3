@@ -25,7 +25,7 @@ mapping = {
     "down_proj": ("w2", 4),
     "up_proj": ("w3", 0),
     "norm": ("norm", None),
-    "lm_head": ("head", 0),
+    "lm_head": ("head", 5),
     "scale": ("scale", None),
 }
 
